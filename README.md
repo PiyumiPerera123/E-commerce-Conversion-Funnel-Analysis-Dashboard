@@ -7,22 +7,22 @@ This project analyzes customer behavior in an e-commerce funnel using Python and
 Browse → Add to Cart → Checkout → Purchase
 
 ## Key Metrics
-Conversion Rate = Purchases / Total Sessions
-Drop-Off Rate = Loss between funnel stages
-Bounce Rate = Bounce Sessions / Total Sessions
+- Conversion Rate = Purchases / Total Sessions
+- Drop-Off Rate = Loss between funnel stages
+- Bounce Rate = Bounce Sessions / Total Sessions
 
 ## Tools Used
-Python (Pandas, NumPy, Plotly, Matplotlib)
-Power BI (DAX, Dashboards)
-Excel
+- Python (Pandas, NumPy, Plotly, Matplotlib)
+- Power BI (DAX, Dashboards)
+- Excel
 
 ## Key Insights
-Highest drop-off at Checkout → Purchase stage
-Email & Google Ads performed best in revenue
-Mobile and Desktop usage nearly equal
-East region generated highest revenue
+- Highest drop-off at Checkout → Purchase stage
+- Email & Google Ads performed best in revenue
+- Mobile and Desktop usage nearly equal
+- East region generated highest revenue
 
 ## Dashboard
-![Dashboard](Dashboard.png)
-
-
+<img src="dashboard/Image1.png" width="400"/>
+<img src="dashboard/Image2.png" width="400"/>
+<img src="dashboard/Image3.png" width="400"/>
