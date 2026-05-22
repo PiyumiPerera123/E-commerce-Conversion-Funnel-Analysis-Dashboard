@@ -24,5 +24,5 @@ Browse → Add to Cart → Checkout → Purchase
 
 ## Dashboard
 <img src="Dashboard/Image1.png" width="400"/>
-<img src="Dashboard/Image2.png" width="400"/>
 <img src="Dashboard/Image3.png" width="400"/>
+<img src="Dashboard/Image2.png" width="400"/>
